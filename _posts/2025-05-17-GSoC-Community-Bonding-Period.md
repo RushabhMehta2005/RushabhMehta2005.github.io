@@ -13,7 +13,7 @@ When I received the acceptance email, I was stunned. It took a few moments for i
 
 I’ll be collaborating with incredible people, my mentors **Jason Moore**, **Hwayeon Kang** and the rest of SymPy maintainers. I will post weekly updates here throughout the summer. This blog will also be a space for anything else I find interesting—technical thoughts, reflections, or random curiosities.
 
-### Community Bonding
+## Community Bonding
 
 The community bonding period has been a great start. I’ve had the chance to interact with other contributors, introduce myself, and connect with people working on fascinating projects. It’s motivating to be surrounded by such energy and curiosity. I feel like a part of a bigger team.
 
